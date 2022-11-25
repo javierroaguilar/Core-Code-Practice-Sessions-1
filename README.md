@@ -98,6 +98,50 @@ First projects in order to understand this new world.
       Mostrar "La respuesta es " x " metros cuadrados"
     Fin
 
+## Challenge 4 - Odd Number
+
+        Iniciar ProcesosNumeros
+            Definir x 
+            Definir y
+        Mostrar "Ingrese número"
+            Leer x
+        y = x/2
+        Si y No es igual a Número Entero
+        Entonces mostrar "El número " + x + " Es Impar"
+        Sino Entonces
+            Mostrar "El número " + x + " Es par"
+        Fin
+
+## Challenge 5 - Edad
+
+        Iniciar ProcesoEdad
+            Definir fechaNacimiento
+            Definir fechaHoy
+            Definir y 
+        Mostrar "Ingrese su fecha de nacimiento"
+            Leer fechaNacimiento
+        Mostrar "Ingrese la fecha de hoy"
+            Leer fechaHoy
+         y = ((fechaHoy) - (fechaNacimiento))/365
+        Mostrar "Tu edad actual es " + y
+        Fin
+
+## Challenge 6 - Cofres
+
+        Iniciar ProcesoCofres
+            Definir A
+            Definir B
+            Definir C
+        A = B tiene el tesoro
+        B = Todos tienen tesoro
+        C = Solo 1 tiene el tesoro
+            Si A = Falso 
+                entonces B = Falso Luego 
+            Si C = falso entonces 
+                A y C tienen el tesoro
+
+
+
 
       
     
