@@ -1,7 +1,4 @@
-# Core-Code-Practice-Sessions-1
-First projects in order to understand this new world.
-
-# Week1 - Challenges 
+# Core-Code-Practice-Week-1-Challenges
 
 ## Challenge 1 - Pizza Recipe
     Proceso Pizza Receta
